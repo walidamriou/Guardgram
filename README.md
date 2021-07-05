@@ -7,6 +7,7 @@ Controlling ESP32-CAM via Telegram bot ( take and send photos )
   - Support take photos and send it via telegram bot
   - Support change lamp status via telegram bot
   - Config Guardgram manually only (WiFi Credentials, Telegram Bot Token, and Telegram user ID)
+  - Developed based Arduino framework (Using Arduino, ArduinoJson, and Universal-Arduino-Telegram-Bot )
 
 ### How to get Telegram Bot Token
 To take you one Telegram Bot Token you need to create a Telegram Bot. Open Telegram App, then Search for @botfather, or open t.me/botfather.
