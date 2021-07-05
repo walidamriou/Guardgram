@@ -4,7 +4,8 @@
 // from BotFather (@BotFather or t.me/BotFather)
 String BOTtoken = guardgram_telegrambot_bottoken;  // your Bot Token (Get from Botfather)
 
-// rom myidbot (@myidbot or t.me/myidbot)
+// Telegram user ID
+// from myidbot (@myidbot or t.me/myidbot)
 String CHAT_ID = guardgram_telegrambot_chat_id;
 
 // Create a bot with the token and client 
