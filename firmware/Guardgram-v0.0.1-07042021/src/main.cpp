@@ -9,6 +9,8 @@
  * Controlling ESP32-CAM via Telegram bot ( take and send photos ) 
  * Source: https://github.com/walidamriou/Guardgram
  * 
+ * Firmware Version 0.0.1 
+ * 
  */
 
 #include "guardgram_includes.h"

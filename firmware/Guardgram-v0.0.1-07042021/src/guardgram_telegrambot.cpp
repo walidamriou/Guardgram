@@ -42,10 +42,10 @@ void Guardgram_Telegram_Bot_Handle(int numNewMessages) {
 
     // If user send /start then send there they welcome 
     if (text == "/start") {
-      String welcome = "Welcome , " + from_name + "\n";
-      welcome += "Use the following commands to interact with your guardgram \n";
+      String welcome = "Welcome to Guardgram, " + from_name + "\n";
+      welcome += "Use the following commands: \n";
       welcome += "/photo : takes a new photo\n";
-      welcome += "/lamp : toggles Lamp \n";
+      welcome += "/lamp : toggles the Lamp \n";
       // Send user welcome page
       bot.sendMessage(CHAT_ID, welcome, "");
     }
