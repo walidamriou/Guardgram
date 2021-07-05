@@ -1,6 +1,9 @@
 # Guardgram
 Controlling ESP32-CAM via Telegram bot ( take and send photos )
 
+This project gives you a hardware and software solution to create your one guard using Telegram app via telgram bot (https://telegram.org).  
+The project implementation needs ESP32-CAM board, Telegram App with account, Platfomio via VScode to build your one firmware, and WiFi.  
+
 ### Revision history
 
 * v0.0.1-07042021
