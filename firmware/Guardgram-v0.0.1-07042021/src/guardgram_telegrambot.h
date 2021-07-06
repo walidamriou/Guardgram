@@ -16,6 +16,7 @@
 
 #define guardgram_telegrambot_bottoken "XXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 #define guardgram_telegrambot_chat_id  "XXXXXXXXXX"
+
 #define guardgram_Telegram_messages_time_check 1000
 
 void Guardgram_Telegram_Bot_Handle(int numNewMessages);
