@@ -3,7 +3,7 @@ Guardgram to control Embedded low-cost surveillance system  via Telegram bot
 
 ### Revision history
 
-* v0.0.1-07042021
+* Guardgram Firmware Source for ESP32-CAM v0.0.1-07042021 
   - Support take photos and send it via telegram bot
   - Support change lamp status via telegram bot
   - Config Guardgram manually only (WiFi Credentials, Telegram Bot Token, and Telegram user ID)
